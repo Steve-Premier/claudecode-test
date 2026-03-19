@@ -26,4 +26,5 @@ Everything lives in `tictactoe.html` as a single self-contained file with three 
 
 - Repo: https://github.com/Steve-Premier/claudecode-test
 - Branch: `main`
-- After every significant change: commit with a clean message and push to GitHub
+
+**Commit and push frequently.** After every meaningful unit of work — adding a feature, fixing a bug, updating a file — stage the relevant files, write a clean descriptive commit message, and push to GitHub. Never leave completed work uncommitted. This ensures we can always revert to any previous state and nothing is ever lost.
